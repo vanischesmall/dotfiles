@@ -1,2 +1,2 @@
 # dotfiles
-My Dotfiles for Gruvbox Hyprland Arch
+My Gruvbox Hyprland Arch Dotfiles
